@@ -5,13 +5,14 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
+  
   <em>Figure 1. A visualization of the pipeline created to process our raw RNA sequence data. The data originated from the leaf material of 36 tomato accessions with 3 biological replicates per accession, culminating in 108 total samples. Each sample was trimmed for various contaminants and subsequently aligned with the Heinz tomato genome to generate RPKM data. The RPKM values were normalized and merged by accession using homebrew scripts in conjunction with the Fei lab to generate single RPKM values for each accession.</em>
 </p>
 
 <p align="center">
   <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
-  <em>Figure 2. A visualization of what qualifies as an SV-gene pair (modified after Alonge et al., 2020). We focused on genic structural variants as potential pairs to test our pipeline, disregarding variants in both upstream and downstream regions. Future work will include consideration of  adjacent non-coding sequence SVs.
-![image](https://user-images.githubusercontent.com/22939077/156617268-6d0ef955-d91a-41e1-9fc4-82ffaee29c01.png)</em>
+  
+  <em>Figure 2. A visualization of what qualifies as an SV-gene pair (modified after Alonge et al., 2020). We focused on genic structural variants as potential pairs to test our pipeline, disregarding variants in both upstream and downstream regions. Future work will include consideration of  adjacent non-coding sequence SVs.</em>
 </p>
 
 <p align="center">
