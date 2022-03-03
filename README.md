@@ -82,6 +82,7 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 The ability to identify causal genomic variants with large effect size within tomato accessions is crucial to identifying the origins of desirable quantitative traits and their variation. Furthermore, recognition of the effect of structural variants on gene expression shines light on genotype-to-phenotype regulatory mechanisms. 
 With VIPER, we successfully constructed a library of candidate genes with potential impact on leaf morphology. With our ability to detect downstream effects of SV presence/absence on gene expression, our focus will turn towards identifying structural variants with greater agricultural impact. Targeted mechanisms will include hormone control and metabolism, major determinants of carotenoid accumulation, fruit morphology, and ripening in tomato fruit. 
 
+# Running VIPER
 
 
 
