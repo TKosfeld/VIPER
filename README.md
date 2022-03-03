@@ -1,13 +1,30 @@
 # VIPER
 
+# Abstract
+
 Structural variants (SV) are recognized as a prominent source of genetic variation, with single variants manifesting significant influence over phenotypic expression. However, their effects remain poorly understood due to computational limitations and a continued focus on SNPs. Addressing this need, we introduce the Variant Identification Pipeline with Expression Realization (VIPER), a robust computational pipeline created to identify and annotate structural variants with significant impact on gene expression. Using a publicly available structural variant collection as reference (Alonge et al., 2020), VIPER accepts processed RNA sequence data and constructs a list of SV-gene pairs based on genetic position. These SV-gene pairs are then evaluated by their differential expression values, with pairs expressing significant RPKM differentials concatenated to form a library of high-impact SV-gene pairs. Finally, the library is enriched by annotating genes for function, allowing for the identification and selection of candidate variants with desirable phenotypic influences.
 To evaluate the efficacy of VIPER, we constructed a causal genomic library from a collection of 108 tomato leaf samples. A candidate insertion from this library, which we labelled GUNGIR, affirmed VIPER by expressing a  significant influence over leaflet morphology as quantified by a fivefold principal component system. 
+
+# RNA Data Preparation
+
+RNA-sequence processing provided normalized RPKM values for 34,693 total genes.
+
+When cross referenced with the publicly available PanSV structural variant library, 5,471 genes overlapped with a structural variant, allowing for genic SV-gene pairing. (Figure 3)
+
+3,543 of the genic pairs met the minimum expression requirement by expressing in at least five accessions, and were statistically ranked by evaluating differential expression across an accession split. (Figure 4)
+
+For each of the 3,542 evaluated accessions splits, the 34,692 non-paired genes were similarly evaluated for differential expression. (Figure 5)
+
+This quantitative evaluation constructed a library of 271 statistically significant SV-gene pairs. 
+
 
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
   
   <em>Figure 1. A visualization of the pipeline created to process our raw RNA sequence data. The data originated from the leaf material of 36 tomato accessions with 3 biological replicates per accession, culminating in 108 total samples. Each sample was trimmed for various contaminants and subsequently aligned with the Heinz tomato genome to generate RPKM data. The RPKM values were normalized and merged by accession using homebrew scripts in conjunction with the Fei lab to generate single RPKM values for each accession.</em>
 </p>
+
+# SV-Gene Identification
 
 <p align="center">
   <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
