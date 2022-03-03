@@ -11,8 +11,7 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 <p align="center">
   <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
   <em>Figure 2. A visualization of what qualifies as an SV-gene pair (modified after Alonge et al., 2020). We focused on genic structural variants as potential pairs to test our pipeline, disregarding variants in both upstream and downstream regions. Future work will include consideration of  adjacent non-coding sequence SVs.
-![image](https://user-images.githubusercontent.com/22939077/156617268-6d0ef955-d91a-41e1-9fc4-82ffaee29c01.png)
-</em>
+![image](https://user-images.githubusercontent.com/22939077/156617268-6d0ef955-d91a-41e1-9fc4-82ffaee29c01.png)</em>
 </p>
 
 <p align="center">
