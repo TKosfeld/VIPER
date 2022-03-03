@@ -4,7 +4,7 @@ Structural variants (SV) are recognized as a prominent source of genetic variati
 To evaluate the efficacy of VIPER, we constructed a causal genomic library from a collection of 108 tomato leaf samples. A candidate insertion from this library, which we labelled GUNGIR, affirmed VIPER by expressing a  significant influence over leaflet morphology as quantified by a fivefold principal component system. 
 
 <p align="center">
-  <img width="200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
+  <img width="1400" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
 </p>
 
 
