@@ -10,31 +10,39 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 
 <p align="center">
   <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
-  <em>
+  <em>Figure 2. A visualization of what qualifies as an SV-gene pair (modified after Alonge et al., 2020). We focused on genic structural variants as potential pairs to test our pipeline, disregarding variants in both upstream and downstream regions. Future work will include consideration of  adjacent non-coding sequence SVs.
+![image](https://user-images.githubusercontent.com/22939077/156617268-6d0ef955-d91a-41e1-9fc4-82ffaee29c01.png)
+</em>
 </p>
 
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952621232179/Viper_3.png" alt="Figure 3">
+  <em></em>
 </p>
 
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952084373574/Viper_4.png" alt="Figure 4">
+  <em></em>
 </p>
 
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951790755890/Viper_5.png" alt="Figure 5">
+  <em></em>
 </p>
 
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951534927872/Viper_6.png" alt="Figure 6">
+  <em></em>
 </p>
 
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951245500476/Viper_7.png" alt="Figure 7">
+  <em></em>
 </p>
 
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988950628950016/Viper_8.png" alt="Figure 8">
+  <em></em>
 </p>
 
 
