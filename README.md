@@ -5,6 +5,7 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
+  __Figure 1. A visualization of the pipeline created to process our raw RNA sequence data. The data originated from the leaf material of 36 tomato accessions with 3 biological replicates per accession, culminating in 108 total samples. Each sample was trimmed for various contaminants and subsequently aligned with the Heinz tomato genome to generate RPKM data. The RPKM values were normalized and merged by accession using homebrew scripts in conjunction with the Fei lab to generate single RPKM values for each accession.__
 </p>
 
 <p align="center">
