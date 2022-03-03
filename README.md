@@ -8,7 +8,7 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 </p>
 
 <p align="center">
-  <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
+  <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 </p>
 
 <p align="center">
-  <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951245500476/Viper_7.png" alt="Figure 7">
+  <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951245500476/Viper_7.png" alt="Figure 7">
 </p>
 
 <p align="center">
-  <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988950628950016/Viper_8.png" alt="Figure 8">
+  <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988950628950016/Viper_8.png" alt="Figure 8">
 </p>
 
 
