@@ -7,17 +7,6 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 
 # RNA Data Preparation
 
-RNA-sequence processing provided normalized RPKM values for 34,693 total genes.
-
-When cross referenced with the publicly available PanSV structural variant library, 5,471 genes overlapped with a structural variant, allowing for genic SV-gene pairing. (Figure 3)
-
-3,543 of the genic pairs met the minimum expression requirement by expressing in at least five accessions, and were statistically ranked by evaluating differential expression across an accession split. (Figure 4)
-
-For each of the 3,542 evaluated accessions splits, the 34,692 non-paired genes were similarly evaluated for differential expression. (Figure 5)
-
-This quantitative evaluation constructed a library of 271 statistically significant SV-gene pairs. 
-
-
 <p align="center">
   <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952948396032/Viper_1.png" alt="Figure 1">
   
@@ -25,6 +14,12 @@ This quantitative evaluation constructed a library of 271 statistically signific
 </p>
 
 # SV-Gene Identification
+
+- RNA-sequence processing provided normalized RPKM values for 34,693 total genes.
+- When cross referenced with the publicly available PanSV structural variant library, 5,471 genes overlapped with a structural variant, allowing for genic SV-gene pairing. (Figure 3)
+- 3,543 of the genic pairs met the minimum expression requirement by expressing in at least five accessions, and were statistically ranked by evaluating differential expression across an accession split. (Figure 4)
+- For each of the 3,542 evaluated accessions splits, the 34,692 non-paired genes were similarly evaluated for differential expression. (Figure 5)
+- This quantitative evaluation constructed a library of 271 statistically significant SV-gene pairs. 
 
 <p align="center">
   <img width="600" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952361189477/Viper_2.png" alt="Figure 2">
