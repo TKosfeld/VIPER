@@ -41,6 +41,12 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 </em>
 </p>
 
+# Single Variant Influence
+
+- To evaluate the functional efficacy of our 271 high-impact SV-gene pairs, we identified 103 overlapping genes between our 271 SV-gene pairs and Martinez, 2021, a set of literature-curated genes related to leaf development. 
+- Differences in the leaf development of our tomato accessions were quantified by the Sinha Lab at UC Davis, by means of a fivefold principal component system. (Figure 7)
+- The highest-ranking of the isolated SV-gene pairs, a 143 bp insertion we labelled GUNGIR, expressed a strong phenotypic influence over leaflet shape in our tomato accessions. GUNGIR localizes in the candidate tomato gene Solyc01g005100, encoding a 2-oxoglutarate and Fe(II)-dependent oxygenase superfamily protein.
+
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951790755890/Viper_5.png" alt="Figure 5">
   
@@ -54,6 +60,8 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
   <em>Figure 6. Morphological analysis of the leaflets of our tomato accessions by the Sinha Lab at UC Davis generated five principal components, correlated to traditional shape measures, with which to quantify leaf shape. In an accession split based on GUNGIR presence/absence, the leaflets expressed significant differences in all five principal components.
 </em>
 </p>
+
+# Phenotypic Impact
 
 <p align="center">
   <img width="800" src="https://cdn.discordapp.com/attachments/215581700556718080/948988951245500476/Viper_7.png" alt="Figure 7">
@@ -69,6 +77,10 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 </em>
 </p>
 
+# Conclusion
+
+The ability to identify causal genomic variants with large effect size within tomato accessions is crucial to identifying the origins of desirable quantitative traits and their variation. Furthermore, recognition of the effect of structural variants on gene expression shines light on genotype-to-phenotype regulatory mechanisms. 
+With VIPER, we successfully constructed a library of candidate genes with potential impact on leaf morphology. With our ability to detect downstream effects of SV presence/absence on gene expression, our focus will turn towards identifying structural variants with greater agricultural impact. Targeted mechanisms will include hormone control and metabolism, major determinants of carotenoid accumulation, fruit morphology, and ripening in tomato fruit. 
 
 
 
