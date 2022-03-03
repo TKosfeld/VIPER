@@ -1,1 +1,8 @@
+1000 file example directory of SV ranking output. Explanatory figure below:
 
+<p align="center">
+  <img width="1200" src="https://cdn.discordapp.com/attachments/215581700556718080/948988952084373574/Viper_4.png" alt="Figure 4">
+  
+  <em>Figure 4. For each  accession split, differential expression was also calculated for each of the 34,692 non-paired genes. This allowed for the identification of genes whose expression was impacted by SV presence/absence, but were not identified by position. E.g. genes: Solyc01g005100, Solyc01g005430.3, Solyc01g005430.3. 
+</em>
+</p>
