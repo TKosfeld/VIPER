@@ -1,0 +1,39 @@
+﻿"List of plant accessions for which RNA-seq data has been obtained and for which genomic sequence and SV data is available from Alonge et al., 2020.",,,,,,,,,,,
+,,,,,,,,,,,
+Plant ID,ID of RNA-seq sample,,,Line,Species / Variety,Leaf,Flower,Fruit,URL for VCF (variant call file),MAS2.0 seqeunce file,MAS2.0 annotation file
+1,L1-1,L1-2,L1-3,BGV006175,S. lycopersicum var. cerasiforme,✔,✔,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006175.ont.v1.0.s.vcf.gz,,
+5,L5-1,L5-2,L5-3,BGV006232,S. lycopersicum var. cerasiforme,✔,✔,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006232.ont.v1.0.s.vcf.gz,,
+7,L7-1,L7-2,L7-3,BGV006336,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006336.ont.v1.0.s.vcf.gz,,
+8,L8-1,L8-2,L8-3,BGV006370,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006370.ont.v1.0.s.vcf.gz,,
+9,L9-1,L9-2,L9-3,BGV006454,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006454.ont.v1.0.s.vcf.gz,,
+11,L11-1,L11-2,L11-3,BGV006767,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006767.ont.v1.0.s.vcf.gz,,
+12,L12-1,L12-2,L12-3,BGV006768,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006768.ont.v1.0.s.vcf.gz,,
+13,L13-1,L13-2,L13-3,BGV006775,S. lycopersicum var. cerasiforme/ S. pimp,✔,✔,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006775.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV006775_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV006775_MAS2.0_gene_models.gff.gz
+15,L15-1,L15-2,L15-3,BGV006852,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006852.ont.v1.0.s.vcf.gz,,
+16,L16-1,L16-2,L16-3,BGV006865,S. lycopersicum var. cerasiforme,✔,✔,✔,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006865.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV006865_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV006865_MAS2.0_gene_models.gff.gz
+19,L19-1,L19-2,L19-3,BGV006906,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV006906.ont.v1.0.s.vcf.gz,,
+23,L23-1,L23-2,L23-3,BGV007109,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007109.ont.v1.0.s.vcf.gz,,
+28,L28-1,L28-2,L28-3,BGV007198,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007198.ont.v1.0.s.vcf.gz,,
+42,L42-1,L42-2,L42-3,BGV007931,S. lycopersicum var. cerasiforme,✔,✔,✔,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007931.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV007931_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV007931_MAS2.0_gene_models.gff.gz
+45,L45-1,L45-2,L45-3,BGV007981,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007981.ont.v1.0.s.vcf.gz,,
+46,L46-1,L46-2,L46-3,BGV007989,S. lycopersicum var. cerasiforme,✔,✔,✔,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007989.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV007989_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/BGV007989_MAS2.0_gene_models.gff.gz
+47,L47-1,L47-2,L47-3,BGV007992,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV007992.ont.v1.0.s.vcf.gz,,
+49,L49-1,L49-2,L49-3,BGV008042,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV008042.ont.v1.0.s.vcf.gz,,
+55,L55-1,L55-2,L55-3,BGV008108,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV008108.ont.v1.0.s.vcf.gz,,
+56,L56-1,L56-2,L56-3,BGV008189,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV008189.ont.v1.0.s.vcf.gz,,
+58,L58-1,L58-2,L58-3,BGV008225,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV008225.ont.v1.0.s.vcf.gz,,
+60,L60-1,L60-2,L60-3,BGV012615,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV012615.ont.v1.0.s.vcf.gz,,
+62,L62-1,L62-2,L62-3,BGV012626,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV012626.ont.v1.0.s.vcf.gz,,
+64,L64-1,L64-2,L64-3,BGV013161,S. lycopersicum var. cerasiforme,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/BGV013161.ont.v1.0.s.vcf.gz,,
+72,L72-1,L72-2,L72-3,Brandywine,S. lycopersicum var. lycopersicum - heirloom,✔,✔,✔,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/Brandywine.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/Brandywine_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/Brandywine_MAS2.0_gene_models.gff.gz
+74,L74-1,L74-2,L74-3,Fla.7907B,S. lycopersicum var. lycopersicum - modern,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/Fla.7907B.ont.v1.0.s.vcf.gz,,
+75,L75-1,L75-2,L75-3,Fla.8059,S. lycopersicum var. lycopersicum - modern,✔,✔,✔,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/Fla.8059.ont.v1.0.s.vcf.gz,,
+77,L77-1,L77-2,L77-3,EA00990,S. lycopersicum var. lycopersicum - heirloom,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/EA00990.ont.v1.0.s.vcf.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/EA00990_MAS2.0.fasta.gz,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/EA00990_MAS2.0_gene_models.gff.gz
+78,L78-1,L78-2,L78-3,LA0317,S. galapagense,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA0317.ont.v1.0.s.vcf.gz,,
+91,L91-1,L91-2,L91-3,LA1237,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1237.ont.v1.0.s.vcf.gz,,
+92,L92-1,L92-2,L92-3,LA1245,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1245.ont.v1.0.s.vcf.gz,,
+93,L93-1,L93-2,L93-3,LA1279,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1279.ont.v1.0.s.vcf.gz,,
+94,L94-1,L94-2,L94-3,LA1335,S. pimpinellifolium,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1335.ont.v1.0.s.vcf.gz,,
+96,L96-1,L96-2,L96-3,LA1406,S. cheesmanaie,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1406.ont.v1.0.s.vcf.gz,,
+97,L97-1,L97-2,L97-3,LA1407,S. cheesmanaie,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1407.ont.v1.0.s.vcf.gz,,
+98,L98-1,L98-2,L98-3,LA1409,S. cheesmanaie,✔,,,ftp://ftp.solgenomics.net:21/genomes/tomato100/March_02_2020_sv_landscape/variants/LA1409.ont.v1.0.s.vcf.gz,,
