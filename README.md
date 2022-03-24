@@ -1,5 +1,14 @@
 # VIPER
 
+# Usage
+
+Path of python execution: enrich_vcf.py -> vcf_parse.py -> accession_split.py
+                                                          or
+                                                        -> gene_rank.py
+                                                        
+Pipeline executable: ./viper_pipeline.sh
+
+
 # Abstract
 
 Structural variants (SV) are recognized as a prominent source of genetic variation, with single variants manifesting significant influence over phenotypic expression. However, their effects remain poorly understood due to computational limitations and a continued focus on SNPs. Addressing this need, we introduce the Variant Identification Pipeline with Expression Realization (VIPER), a robust computational pipeline created to identify and annotate structural variants with significant impact on gene expression. Using a publicly available structural variant collection as reference (Alonge et al., 2020), VIPER accepts processed RNA sequence data and constructs a list of SV-gene pairs based on genetic position. These SV-gene pairs are then evaluated by their differential expression values, with pairs expressing significant RPKM differentials concatenated to form a library of high-impact SV-gene pairs. Finally, the library is enriched by annotating genes for function, allowing for the identification and selection of candidate variants with desirable phenotypic influences.
@@ -81,8 +90,6 @@ To evaluate the efficacy of VIPER, we constructed a causal genomic library from 
 
 The ability to identify causal genomic variants with large effect size within tomato accessions is crucial to identifying the origins of desirable quantitative traits and their variation. Furthermore, recognition of the effect of structural variants on gene expression shines light on genotype-to-phenotype regulatory mechanisms. 
 With VIPER, we successfully constructed a library of candidate genes with potential impact on leaf morphology. With our ability to detect downstream effects of SV presence/absence on gene expression, our focus will turn towards identifying structural variants with greater agricultural impact. Targeted mechanisms will include hormone control and metabolism, major determinants of carotenoid accumulation, fruit morphology, and ripening in tomato fruit. 
-
-# Running VIPER
 
 
 
